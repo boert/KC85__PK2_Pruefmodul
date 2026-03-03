@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name dl004)(type Legacy)(uri ${KIPRJMOD}/dl004.lib)(options "")(descr ""))
+  (lib (name DL002)(type Legacy)(uri ${KIPRJMOD}/DL002.lib)(options "")(descr ""))
+  (lib (name DL000)(type Legacy)(uri ${KIPRJMOD}/DL000.lib)(options "")(descr ""))
+  (lib (name DL074)(type Legacy)(uri ${KIPRJMOD}/DL074.lib)(options "")(descr ""))
+  (lib (name PK2-rescue)(type Legacy)(uri ${KIPRJMOD}/PK2-rescue.lib)(options "")(descr ""))
+)

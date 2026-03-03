@@ -1,0 +1,428 @@
+PCBNEW-LibModule-V1  Mittwoch, 23. April 2014 13:20:57
+# encoding utf-8
+Units mm
+$INDEX
+KC85_Modul
+$EndINDEX
+$MODULE KC85_Modul
+Po 0 0 0 15 5357A1E4 00000000 ~~
+Li KC85_Modul
+Cd 10A
+Sc 0
+AR 
+Op 0 0 0
+T0 -5 2.5 1 1 0 0.15 N V 21 N "KC85_Modul"
+T1 -7.5 5 1 1 0 0.15 N V 21 N "VAL**"
+DS 74.75 0 95 0 0.15 21
+DS 74.75 -10 74.75 0 0.15 21
+DS 0.25 -10 74.75 -10 0.15 21
+DS 0.25 0 -20 0 0.15 21
+DS 0.25 0 0.25 -10 0.15 21
+$PAD
+Sh "1A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 72.5 -6.5
+$EndPAD
+$PAD
+Sh "2A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 70 -6.5
+$EndPAD
+$PAD
+Sh "3A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 67.5 -6.5
+$EndPAD
+$PAD
+Sh "4A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 65 -6.5
+$EndPAD
+$PAD
+Sh "5A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 62.5 -6.5
+$EndPAD
+$PAD
+Sh "6A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 60 -6.5
+$EndPAD
+$PAD
+Sh "7A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 57.5 -6.5
+$EndPAD
+$PAD
+Sh "8A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 55 -6.5
+$EndPAD
+$PAD
+Sh "9A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 52.5 -6.5
+$EndPAD
+$PAD
+Sh "10A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 50 -6.5
+$EndPAD
+$PAD
+Sh "11A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 47.5 -6.5
+$EndPAD
+$PAD
+Sh "12A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 45 -6.5
+$EndPAD
+$PAD
+Sh "13A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 42.5 -6.5
+$EndPAD
+$PAD
+Sh "14A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 40 -6.5
+$EndPAD
+$PAD
+Sh "15A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 37.5 -6.5
+$EndPAD
+$PAD
+Sh "16A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 35 -6.5
+$EndPAD
+$PAD
+Sh "17A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 32.5 -6.5
+$EndPAD
+$PAD
+Sh "18A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 30 -6.5
+$EndPAD
+$PAD
+Sh "19A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 27.5 -6.5
+$EndPAD
+$PAD
+Sh "20A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 25 -6.5
+$EndPAD
+$PAD
+Sh "21A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 22.5 -6.5
+$EndPAD
+$PAD
+Sh "22A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 20 -6.5
+$EndPAD
+$PAD
+Sh "23A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 17.5 -6.5
+$EndPAD
+$PAD
+Sh "24A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 15 -6.5
+$EndPAD
+$PAD
+Sh "25A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 12.5 -6.5
+$EndPAD
+$PAD
+Sh "26A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 10 -6.5
+$EndPAD
+$PAD
+Sh "27A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 7.5 -6.5
+$EndPAD
+$PAD
+Sh "28A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 5 -6.5
+$EndPAD
+$PAD
+Sh "29A" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00440001
+Ne 0 ""
+Po 2.5 -6.5
+$EndPAD
+$PAD
+Sh "1B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 72.5 -6.5
+$EndPAD
+$PAD
+Sh "2B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 70 -6.5
+$EndPAD
+$PAD
+Sh "3B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 67.5 -6.5
+$EndPAD
+$PAD
+Sh "4B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 65 -6.5
+$EndPAD
+$PAD
+Sh "5B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 62.5 -6.5
+$EndPAD
+$PAD
+Sh "6B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 60 -6.5
+$EndPAD
+$PAD
+Sh "7B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 57.5 -6.5
+$EndPAD
+$PAD
+Sh "8B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 55 -6.5
+$EndPAD
+$PAD
+Sh "9B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 52.5 -6.5
+$EndPAD
+$PAD
+Sh "10B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 50 -6.5
+$EndPAD
+$PAD
+Sh "11B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 47.5 -6.5
+$EndPAD
+$PAD
+Sh "12B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 45 -6.5
+$EndPAD
+$PAD
+Sh "13B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 42.5 -6.5
+$EndPAD
+$PAD
+Sh "14B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 40 -6.5
+$EndPAD
+$PAD
+Sh "15B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 37.5 -6.5
+$EndPAD
+$PAD
+Sh "16B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 35 -6.5
+$EndPAD
+$PAD
+Sh "17B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 32.5 -6.5
+$EndPAD
+$PAD
+Sh "18B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 30 -6.5
+$EndPAD
+$PAD
+Sh "19B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 27.5 -6.5
+$EndPAD
+$PAD
+Sh "20B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 25 -6.5
+$EndPAD
+$PAD
+Sh "21B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 22.5 -6.5
+$EndPAD
+$PAD
+Sh "22B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 20 -6.5
+$EndPAD
+$PAD
+Sh "23B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 17.5 -6.5
+$EndPAD
+$PAD
+Sh "24B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 15 -6.5
+$EndPAD
+$PAD
+Sh "25B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.5 -6.5
+$EndPAD
+$PAD
+Sh "26B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10 -6.5
+$EndPAD
+$PAD
+Sh "27B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 -6.5
+$EndPAD
+$PAD
+Sh "28B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5 -6.5
+$EndPAD
+$PAD
+Sh "29B" R 1.27 6.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.5 -6.5
+$EndPAD
+$EndMODULE KC85_Modul
+$EndLIBRARY
