@@ -8,4 +8,4 @@ Bisher ist der Leiterplattenentwurf nicht getestet worden (02/2026).
 ## Layout
 ![Layout](PK2_ALP2016_PCB.png)
 
-Vielen Dank an KaiOr und Ralle für die Vorlagen!
+Vielen Dank an Andreas, Guido, KaiOr und Ralle für die Vorlagen!
