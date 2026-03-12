@@ -1,5 +1,6 @@
 # KC85__PK2_Pruefmodul
-Nachentwickelte Leiterplatte zum Prüfmodul PK2 für den KC85/4 aus Mühlhausen
+Nachentwickelte Leiterplatte zum Prüfmodul PK2 für den KC85/4 aus Mühlhausen.
+Bisher ist der Leiterplattenentwurf nicht getestet worden (02/2026).
 
 ## Schaltplan
 ![Schaltplan](PK2_ALP2016_Schematic.png)
@@ -16,6 +17,6 @@ $ jacksum -a crc:16,1021,ffff,false,false,0 -X *.BIN
 3578    8192    Pruefmodul_P222.BIN
 ```
 
-Vielen Dank an KaiOr und Ralle für die Vorlagen!
+Vielen Dank an Andreas, Guido, KaiOr und Ralle für die Vorlagen!
 
 [^1]: [Wikipedia, Zyklische Redundanzprüfung](https://de.wikipedia.org/wiki/Zyklische_Redundanzpr%C3%BCfung)
