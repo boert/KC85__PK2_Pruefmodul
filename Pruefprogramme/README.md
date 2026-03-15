@@ -1,4 +1,4 @@
-#Prüfprogramme
+# Prüfprogramme
 
 Die Prüfprogramme sind für die Inbetriebnahme des KC85/4 und zur Fehlersuche bei Hardwareproblemen entwickelt worden.
 Manche Prüfprogramme (z.B. REGTEST) sind nur sinnvoll mit Messgeräten, wie z.B. einem Oszilloskop, zu gebrauchen.
